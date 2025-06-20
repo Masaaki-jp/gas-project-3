@@ -2,7 +2,7 @@
 const TARGET_URL = "https://kakaku.com/item/K0001692166/";
 
 // 通知先のメールアドレス
-const RECIPIENT_EMAIL = "itohmasaaki0302@gmail.com"; // 
+const RECIPIENT_EMAIL = "YOUR_MAIL_ADDRESS"; // 
 
 // 価格表示が検出されたかどうかのフラグを保存するプロパティキー
 const NOTIFIED_FLAG_KEY = "price_notified";
